@@ -1,6 +1,6 @@
-#Cards / Deck Classes
+# Cards / Deck Class
 
-Built to test:
+#### Built to test:
 
 - Doctest
 
